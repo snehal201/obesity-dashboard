@@ -1,6 +1,7 @@
 ## How to Run
 
 pip install -r requirements.txt
+
 streamlit run obesity_dashboard.py
 
 # 📊 Obesity Analysis Dashboard
